@@ -47,3 +47,13 @@ header{
 .lh{
     line-height: 1.6rem;
 }
+.text-star{
+    color: #fce560;
+}
+.extra-bg{
+    background-image: url('../images/img_5.jpg'), linear-gradient(rgba(4, 4, 4, 0.6), rgba(124, 64, 121, 0.7));
+    background-blend-mode: overlay;
+    height: 40vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
