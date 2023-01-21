@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Montserrat:wght@100;200;300;400;500;600;700;800&family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.bg-first{
+    background-color: #7b2cbf;
+}
+.text-first{
+    color: #7b2cbf;
+}
+.text-second{
+    color: #c77dff;
+}
+.btn-first{
+    background-color: #7b2cbf;
+}
+.btn-second{
+    background-color: #c77dff;
+}
+.btn-outline-first{
+    border: 1px solid #7b2cbf;
+    color: white;
+}
+.border-custom{
+    border: 1px solid #7b2cbf;
+}
