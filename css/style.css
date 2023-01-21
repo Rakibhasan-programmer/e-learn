@@ -44,3 +44,6 @@ header{
 .bg-whitesmoke{
     background-color: rgb(251, 247, 252);
 }
+.lh{
+    line-height: 1.6rem;
+}
