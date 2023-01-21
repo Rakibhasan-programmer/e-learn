@@ -57,3 +57,17 @@ header{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+/* Scrool Bar Coustom Style Start*/
+html::-webkit-scrollbar {
+    width: 0.6rem;
+  }
+html::-webkit-scrollbar-track {
+    background: white;
+}
+  
+html::-webkit-scrollbar-thumb {
+    background: #7b2cbf;
+    border-radius: 25px;
+}
+/* Scrool Bar Coustom Style End*/
